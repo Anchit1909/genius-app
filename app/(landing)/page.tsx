@@ -12,7 +12,6 @@ const LandingPage = () => {
           <Button>Register</Button>
         </Link>
       </div>
-      
     </div>
   );
 };
